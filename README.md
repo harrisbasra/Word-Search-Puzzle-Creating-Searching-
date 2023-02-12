@@ -1,3 +1,3 @@
 # ISE-ASSIGNMENT-4
 ISE ASSIGNMENT 4
-Q1 IS MAKING A WORD SEARCH GRID AND Q2 IS SEARCHING IN IT
+The C++ Console Word Search Puzzle program is a fun and educational tool for creating word search puzzles. With this program, you can choose to hide words in a puzzle grid and then challenge yourself or others to find them. The program is developed using C++ and runs on the console, providing a simple and easy-to-use interface. The puzzle generation algorithm randomly places the words in the grid, making each puzzle unique and challenging. The program also includes a word search solver, which allows you to find the hidden words by highlighting the letters in the grid. Whether you're looking to improve your vocabulary, spend some leisure time, or challenge your friends and family, this program provides a fun and engaging way to do so. The source code is available on GitHub, making it easy for developers to modify and enhance the program to suit their needs.
